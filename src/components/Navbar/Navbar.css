@@ -1,0 +1,9 @@
+.navbar{
+    padding: 20 px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar li{
+    cursor: pointer;
+}
