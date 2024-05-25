@@ -13,9 +13,9 @@
 .navbar-search-icon .dot{
     position: absolute;
     min-width: 12px;
-    min-height: 12px;
+    min-height: 14px;
     background-color: tomato;
-    border-radius: 5px;
+    border-radius: 6px;
     top: -8px;
     right: -8px;
 }
