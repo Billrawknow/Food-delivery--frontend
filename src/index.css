@@ -26,12 +26,12 @@ a{
   list-style: none;
   gap: 20px;
   color: #49557e;
-  font-size: 18px;
+  font-size: 16px;
 }
 .navbar-right{
   display: flex;
   align-items: center;
-  gap: 40px;
+  gap: 38px;
 }
 .navbar button{
 background:transparent;
