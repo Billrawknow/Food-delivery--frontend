@@ -31,11 +31,11 @@ a{
 .navbar-right{
   display: flex;
   align-items: center;
-  gap: 38px;
+  gap: 40px;
 }
 .navbar button{
 background:transparent;
-font-size: 16px;
+font-size: 18px;
 color: #49557e;
 border: 1px solid tomato;
 padding: 10px 30px;
